@@ -1,3 +1,4 @@
+"""This is the code script """
 from time import time as time_counter
 from pygame import *
 from random import randint
